@@ -1,7 +1,5 @@
 # 🎮 Simon Game: Test Your Memory Skills!
 
-!Simon Game Demo
-
 ## 🚀 Description
 
 The Simon Game is not just a memory challenge; it's an adrenaline-pumping race against time! Dive into a world of colors, sounds, and mind-bending sequences. Your brain will tingle with anticipation as you strive to beat your own high score.
