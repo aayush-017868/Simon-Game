@@ -4,6 +4,10 @@
 
 The Simon Game is not just a memory challenge; it's an adrenaline-pumping race against time! Dive into a world of colors, sounds, and mind-bending sequences. Your brain will tingle with anticipation as you strive to beat your own high score.
 
+## 🌟 Demo
+
+Check out the live demo [here](https://aayush-017868.github.io/Simon-Game/). Brace yourself—it's electrifying!
+
 ## 🔥 Features
 
 - **Four Intense Colors**: Red, Green, Blue, and Yellow buttons that light up like fireworks.
@@ -24,9 +28,6 @@ The Simon Game is not just a memory challenge; it's an adrenaline-pumping race a
 4. Repeat the sequence by clicking the buttons in the correct order.
 5. If you falter in strict mode, prepare for a heart-pounding reset.
 
-## 🌟 Demo
-
-Check out the live demo here. Brace yourself—it's electrifying!
 
 ## 📸 Screenshots
 
